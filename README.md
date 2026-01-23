@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="GITHUB COVER.png" width="100%" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm BONU SAI CHANDRA MOULI</h1>
 <h3 align="center">Final Year Computer Science Student | Backend Developer | Problem Solver</h3>
 
