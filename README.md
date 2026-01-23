@@ -28,7 +28,15 @@
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,cs,dotnet,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,cs,dotnet,html,css,git,github,vscode&perline=10" />
+</p>
+
+---
+
+## ⚡ Skills (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Python+Developer;SQL+%7C+MySQL;Django+%7C+REST+API;C%23+%7C+.NET;HTML+%7C+CSS;Git+%7C+GitHub+%7C+VS+Code" />
 </p>
 
 ---
@@ -70,14 +78,28 @@
 
 ---
 
-## 🛠️ Skills (Card Style)
+## 🛠️ Skills (Pro Card Style)
 
-```yaml
-Languages: Python, C, C#
-Backend: Django, REST APIs
-Database: SQL, MySQL
-Frontend: HTML, CSS
-Tools: Git, GitHub, VS Code
+| Category | Skills |
+|---|---|
+| 🧠 Languages | Python, C, C# |
+| ⚙️ Backend | Django, REST API |
+| 🗄️ Database | SQL, MySQL |
+| 🎨 Frontend | HTML, CSS |
+| 🧰 Tools | Git, GitHub, VS Code |
+
+---
+
+## 🚀 Featured Projects
+
+| ⭐ Project | 📌 Description | 🧰 Tech Stack |
+|---|---|---|
+| ✅ **Placement Eligibility & Auto-Shortlisting System** | Evaluates student eligibility using CGPA, backlogs & skills and generates shortlist automatically. | Python, SQL, MySQL, HTML, CSS |
+| ✅ **Employee Leave Management System** | Employees apply leave, admin approves/rejects, records stored in DB with reports. | C#, .NET, SQL, MySQL, HTML, CSS |
+
+📌 **Project Links:**  
+🔗 Placement Eligibility System → https://github.com/SAIMOULIs/placement-eligibility-system  
+🔗 Employee Leave Management → https://github.com/SAIMOULIs/Employee-Leave-Management-System  
 
 ---
 
@@ -127,4 +149,3 @@ Tools: Git, GitHub, VS Code
 
 ```diff
 + Keep learning. Keep building. Keep improving 🚀
-
