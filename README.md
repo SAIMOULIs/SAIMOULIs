@@ -57,15 +57,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIMOULIs&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAIMOULIs&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAIMOULIs&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SAIMOULIs&label=PROFILE%20VIEWS&style=flat-square" />
 </p>
 
-
 ---
+
 
 ## 👨‍💻 About Me
 
