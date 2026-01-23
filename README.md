@@ -78,3 +78,53 @@ Backend: Django, REST APIs
 Database: SQL, MySQL
 Frontend: HTML, CSS
 Tools: Git, GitHub, VS Code
+
+---
+
+## 🏆 Achievements
+
+| 🥇 Achievement |
+|---|
+| ✅ **TCS CodeVita Season 13** |
+| 🌍 Global Rank **721** (Round 1) |
+| 🌍 Global Rank **201** (Round 2) |
+
+---
+
+## 📜 Certifications & Virtual Internships
+
+| ✅ Completed |
+|---|
+| 🧾 Talent NeXT **.NET Full Stack Certification** |
+| ☁️ **AWS Cloud Virtual Internship** |
+| 🛡️ **Palo Alto Cybersecurity Virtual Internship** |
+| 📘 NPTEL: **Cloud Computing** |
+| 🔐 **Privacy & Security in Online Social Media** |
+
+---
+
+## 🌟 Extra Activities
+
+| 🎯 Activities |
+|---|
+| 🎖️ NCC Certificate **A** |
+| 🎨 State-Level Painting Competition |
+| 🧘 State-Level Yoga Participation |
+
+---
+
+## 🌍 Languages
+
+| 🗣️ I Speak |
+|---|
+| Telugu |
+| Hindi |
+| English |
+
+---
+
+## ⭐ Motto
+
+```diff
++ Keep learning. Keep building. Keep improving 🚀
+
