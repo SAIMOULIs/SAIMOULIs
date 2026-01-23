@@ -61,8 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAIMOULIs&label=PROFILE%20VIEWS&style=flat-square" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAIMOULIs&theme=onedark&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
