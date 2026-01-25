@@ -33,7 +33,7 @@
 
 ---
 
-## ⚡ Skills (Animated)
+## ⚡ Skills
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Python+Developer;SQL+%7C+MySQL;Django+%7C+REST+API;C%23+%7C+.NET;HTML+%7C+CSS;Git+%7C+GitHub+%7C+VS+Code" />
@@ -82,7 +82,7 @@
 
 ---
 
-## 🛠️ Skills (Pro Card Style)
+## 🛠️ Skills
 
 | Category | Skills |
 |---|---|
@@ -152,4 +152,4 @@
 ## ⭐ Motto
 
 ```diff
-+ Keep learning. Keep building. Keep improving 🚀
+Keep learning. Keep building. Keep improving 🚀
