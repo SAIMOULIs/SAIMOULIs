@@ -1,155 +1,159 @@
-<p align="center">
-  <img src="GITHUB%20COVER.png" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA3FF&height=230&section=header&text=Bonu%20Sai%20Chandra%20Mouli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%2F%20Django%20Backend%20Developer&descAlignY=55&descSize=20&descColor=e6e6e6" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=2EA3FF&center=true&vCenter=true&width=800&lines=Building+REST+APIs+with+Django+%2B+DRF;TCS+CodeVita+S13+%E2%80%94+Global+Rank+201%2F100%2C000%2B;Turning+Excel+chaos+into+clean+backend+systems;Open+to+Backend+Developer+roles+%2F+internships" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="mailto:saichandhramoulibonu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/saichandramouli-b-5877a9272"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SAIMOULIs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://placement-eligibility-ivf2.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-2EA3FF?style=for-the-badge&logo=render&logoColor=white"/></a>
 </p>
 
-<h1 align="center">Hi 👋 I'm BONU SAI CHANDRA MOULI</h1>
-<p align="center">
-  <b>Developer | Final Year CSE | Python • SQL • Django</b>
-</p>
+<img src="https://komarev.com/ghpvc/?username=SAIMOULIs&label=Profile%20Views&color=2EA3FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/SAIMOULIs?label=Followers&style=for-the-badge&color=2EA3FF" alt="followers"/>
 
-<p align="center">
-  <a href="mailto:saichandhramoulibonu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="http://www.linkedin.com/in/saichandhramouli-b-5877a9272">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/SAIMOULIs">
-    <img src="https://img.shields.io/badge/GitHub-SAIMOULIs-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Developer;Final+Year+CSE+Student;Python+%7C+SQL+%7C+Django;Building+Real-World+Projects;Open+to+Opportunities" />
-</p>
+<br/>
 
----
+<!-- ============ ANIMATED CONTRIBUTION SNAKE ============ -->
+## 🐍 Live Contribution Snake
 
-## 🧰 Tools & Technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SAIMOULIs/SAIMOULIs/output/snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SAIMOULIs/SAIMOULIs/output/snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,cs,dotnet,html,css,git,github,vscode&perline=10" />
-</p>
+<br/>
 
----
+<!-- ============ 3D ROTATING CONTRIBUTION GRAPH ============ -->
+## 🌐 3D Contribution Graph
 
-## ⚡ Skills
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SAIMOULIs/SAIMOULIs/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Python+Developer;SQL+%7C+MySQL;Django+%7C+REST+API;C%23+%7C+.NET;HTML+%7C+CSS;Git+%7C+GitHub+%7C+VS+Code" />
-</p>
+<sub>⚙️ Rotating 3D render of your real commit history — auto-regenerated daily. Filename may shift slightly after first run; see setup notes below.</sub>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIMOULIs&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIMOULIs&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIMOULIs&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIMOULIs&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAIMOULIs&label=PROFILE%20VIEWS&style=flat-square" />
-</p>
-
----
-
-
+<br/>
 
 ## 👨‍💻 About Me
 
-| ✅ Profile Summary |
-|---|
-| 🎓 Final Year **Computer Science** Student (B.Tech 2022–2026) |
-| 💻 **Developer** passionate about building real-world applications |
-| 🚀 Interested in **Backend Development + Database Projects** |
-| ✅ Skills: **Python, SQL, MySQL, Django, C#, .NET** |
-| 🤝 Open to **Internships / Full-Time Opportunities** |
+<table>
+<tr><td>
 
----
+🎓&nbsp; Final-year **B.Tech Computer Science** student (2022 – 2026)
+💻&nbsp; **Python / Django backend developer** — REST APIs, auth, and data-driven systems
+🚀&nbsp; Focused on **backend development + database-driven applications**
+🏆&nbsp; **Global Rank 201 / 100,000+** — TCS CodeVita Season 13
+🤝&nbsp; Open to **backend developer internships & full-time roles**
 
-## 🛠️ Skills
+</td></tr>
+</table>
 
-| Category | Skills |
-|---|---|
-| 🧠 Languages | Python, C, C# |
-| ⚙️ Backend | Django, REST API |
-| 🗄️ Database | SQL, MySQL |
-| 🎨 Frontend | HTML, CSS |
-| 🧰 Tools | Git, GitHub, VS Code |
+<br/>
 
----
+## 🧰 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,git,github,vscode,html,css,cs,dotnet&perline=11" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SAIMOULIs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SAIMOULIs&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIMOULIs&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIMOULIs&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SAIMOULIs&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</div>
+
+<br/>
+
+<!-- ============ LIVE RECENT ACTIVITY FEED ============ -->
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>⚙️ This list fills in automatically after your first workflow run — your last 5 real actions (commits, PRs, issues), always fresh.</sub>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-| ⭐ Project | 📌 Description | 🧰 Tech Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| ✅ **Placement Eligibility & Auto-Shortlisting System** | Evaluates student eligibility using CGPA, backlogs & skills and generates shortlist automatically. | Python, SQL, MySQL, HTML, CSS |
-| ✅ **Employee Leave Management System** | Employees apply leave, admin approves/rejects, records stored in DB with reports. | C#, .NET, SQL, MySQL, HTML, CSS |
+| 🎯 **[PlaceTrack — Placement Eligibility & Auto-Shortlisting](https://github.com/SAIMOULIs/placement-eligibility-system)** | Automates student eligibility screening and company-wise shortlisting by CGPA, backlogs, branch, and skills. [Live Demo →](https://placement-eligibility-ivf2.onrender.com) | Python · Django · DRF · MySQL · JWT |
+| 🏥 **[Hospital Management System](https://github.com/SAIMOULIs/HOSPITAL-MANAGEMENT-SYSTEM)** | Full-stack patient / doctor / appointment management with role-specific permissions across 4 user roles. | Python · Django · DRF · MySQL |
+| 🗂️ **[Employee Leave Management System](https://github.com/SAIMOULIs/Employee-Leave-Management-System)** | Employees apply for leave; admins approve or reject, with DB-backed reporting. | C# · .NET · MySQL |
 
-📌 **Project Links:**  
-🔗 Placement Eligibility System → https://github.com/SAIMOULIs/placement-eligibility-system  
-🔗 Employee Leave Management → https://github.com/SAIMOULIs/Employee-Leave-Management-System  
+> 📌 Got more repos you want featured here? Send me the names/links and I'll slot them in with the same format — I only add repos I can verify are real.
 
----
+<br/>
 
-## 🏆 Achievements
+## 🏅 Achievements
 
-| 🥇 Achievement |
-|---|
-| ✅ **TCS CodeVita Season 13** |
-| 🌍 Global Rank **721** (Round 1) |
-| 🌍 Global Rank **201** (Round 2) |
+| Achievement | Result |
+|---|---|
+| 🥇 TCS CodeVita Season 13 | Global Rank **201** in Round 2 (from Rank 721 in Round 1), out of **100,000+** participants worldwide |
 
----
+<br/>
 
-## 📜 Certifications & Virtual Internships
+## 📜 Certifications & Internships
 
-| ✅ Completed |
-|---|
-| 🧾 Talent NeXT **.NET Full Stack Certification** |
-| ☁️ **AWS Cloud Virtual Internship** |
-| 🛡️ **Palo Alto Cybersecurity Virtual Internship** |
-| 📘 NPTEL: **Cloud Computing** |
-| 🔐 **Privacy & Security in Online Social Media** |
+| Type | Name |
+|---|---|
+| 🎓 Certification | Python Essentials 2 — Cisco Networking Academy & Python Institute |
+| 🎓 Certification | Python 101 for Data Science — IBM Cognitive Class |
+| 🎓 Certification | Talent NeXT — .NET Full Stack |
+| 🎓 Certification | NPTEL — Cloud Computing |
+| 🎓 Certification | Privacy & Security in Online Social Media |
+| 💼 Internship | Python Full Stack Developer Virtual Intern — EduSkills Academy, AICTE |
+| ☁️ Internship | AWS Cloud Virtual Internship — AWS Academy, AICTE |
+| 🛡️ Internship | Palo Alto Cybersecurity Virtual Internship |
 
----
+<br/>
 
-## 🌟 Extra Activities
+## 🌟 Beyond Code
 
-| 🎯 Activities |
-|---|
-| 🎖️ NCC Certificate **A** |
-| 🎨 State-Level Painting Competition |
-| 🧘 State-Level Yoga Participation |
+🎖️ NCC Certificate A &nbsp;·&nbsp; 🎨 State-Level Painting Competition &nbsp;·&nbsp; 🧘 State-Level Yoga Participation
 
----
+**Languages:** Telugu · Hindi · English
 
-## 🌍 Languages
+<br/>
 
-| 🗣️ I Speak |
-|---|
-| Telugu |
-| Hindi |
-| English |
+## 💬 Random Dev Quote
 
----
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-## ⭐ Motto
+<br/>
 
-```diff
-Keep learning. Keep building. Keep improving 🚀
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+### Keep learning. Keep building. Keep improving 🚀
+
+</div>
